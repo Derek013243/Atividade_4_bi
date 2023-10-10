@@ -8,23 +8,23 @@ div{
 }
 .borda-verde-musgão-no-centro {
 border: 10px solid green;
-width: 200rem;
-height: 50rem;
+width: 200px;
+height: 50px 200px;
 margin-inline: 50% 50%;
 }
 .borda-rosiu{
     border: 50px solid pink;
-    width: 155rem;
-    height: 25rem;
+    width: 155px;
+    height: 25px;
 }
 .borda-cianion-no-centro{
     border: 25px solid cyan;
-    width: 247rem;
-    padding: 75rem;
+    width: 247px200px;
+    padding: 75px200px;
     margin-inline: 50% 50%;
 }
 .borda-cinzian{
     border: 75px solid gray;
-    width: 500rem;
-    padding: 100rem;
+    width: 500px 200px;
+    padding: 100px 200px;
 }
