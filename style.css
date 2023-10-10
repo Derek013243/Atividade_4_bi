@@ -1,0 +1,30 @@
+p{
+    font-size: 75px;
+    text-align: center;
+}
+div{
+    margin: 50px;
+    padding: 150px;
+}
+.borda-verde-musgão-no-centro {
+border: 10px solid green;
+width: 200rem;
+height: 50rem;
+margin-inline: 50% 50%;
+}
+.borda-rosiu{
+    border: 50px solid pink;
+    width: 155rem;
+    height: 25rem;
+}
+.borda-cianion-no-centro{
+    border: 25px solid cyan;
+    width: 247rem;
+    padding: 75rem;
+    margin-inline: 50% 50%;
+}
+.borda-cinzian{
+    border: 75px solid gray;
+    width: 500rem;
+    padding: 100rem;
+}
